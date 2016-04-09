@@ -3,7 +3,7 @@ Quick shim for providing soyutils (et al., soy and soydata) as a node/commonjs m
 
 Installation
 ===
-`npm install soyutils --save` or download [`soyutils_nogoog.js`](/mattpowell/soyutils/raw/master/soyutils_nogoog.js) manually.
+`npm install soyutils --save` or download [`soyutils_nogoog.js`](https://github.com/mattpowell/soyutils/raw/master/soyutils_nogoog.js) manually.
 
 Usage
 ===
