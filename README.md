@@ -13,7 +13,7 @@ var soydata = require('soyutils/soydata');
 // ... run soy templates ...
 ```
 -- or, in the browser --
-```js
+```html
 <script src="soyutils_nogoog.js"></script>
 <script>
 // window.soy and window.soydata should be available
