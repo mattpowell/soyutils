@@ -1,11 +1,15 @@
 {
   "name": "soyutils",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Quick shim for providing soyutils (et al., soy and soydata) as a node/commonjs module",
   "main": "soyutils_nogoog.js",
   "author": "Matt Powell",
   "license": "MIT",
   "scripts": {
     "prepublish": "./bin/prepublish.sh"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/mattpowell/soyutils.git"
   }
 }
