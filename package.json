@@ -1,6 +1,6 @@
 {
   "name": "soyutils",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Quick shim for providing soyutils (et al., soy and soydata) as a node/commonjs module",
   "main": "soyutils_nogoog.js",
   "author": "Matt Powell",
