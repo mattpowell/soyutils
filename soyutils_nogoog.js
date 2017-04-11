@@ -1,4 +1,5 @@
-(function(__global) {\n
+(function(__global) {
+
 var COMPILED = !0, goog = goog || {};
 goog.global = this;
 goog.isDef = function(a) {
@@ -6954,7 +6955,10 @@ soy.esc.$$LT_REGEX_ = /</g;
 soy.esc.$$SAFE_TAG_WHITELIST_ = {b:!0, br:!0, em:!0, i:!0, s:!0, sub:!0, sup:!0, u:!0};
 soy.esc.$$HTML_ATTRIBUTE_REGEX_ = /([a-zA-Z][a-zA-Z0-9:\-]*)[\t\n\r\u0020]*=[\t\n\r\u0020]*("[^"]*"|'[^']*')/g;
 
-__global = __global || this;\n
-__global.soy = soy;\n
-__global.soydata = soydata;\n
+__global = __global || this;
+
+__global.soy = soy;
+
+__global.soydata = soydata;
+
 })(typeof module === 'object' && (module.exports = {}));
